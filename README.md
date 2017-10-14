@@ -1,4 +1,4 @@
-# Video-Rental-System
+# Video Rental System
 
 No Pay Back
 Mysql Connector 
